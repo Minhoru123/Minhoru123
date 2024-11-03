@@ -8,7 +8,6 @@
 <h3 align="left">🔭 Currently Working On:</h3>
 <ul>
   <li>Hand-Writing Recognition Project</li>
-  <li>Building a platform focused on relationships and attachment styles</li>
   <li>Automating AI-related updates via web scraping</li>
 </ul>
 
