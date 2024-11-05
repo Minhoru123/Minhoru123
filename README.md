@@ -67,7 +67,7 @@
 <h3 align="left">🌟 Projects:</h3>
 <ul>
   <li><a href="https://github.com/Minhoru123/Hand-Writing-Recognition-clean">Hand-Writing Recognition Project</a>: A project focused on recognizing handwritten text using machine learning techniques.</li>
-  <li><a href="https://github.com/minhoru123/Web-Scraping-AI-Updates">AI Updates Web Scraper</a>: Automating the collection of AI news and updates.</li>
+  <li><a href="https://github.com/Minhoru123/AI-News-WebScraper">AI Updates Web Scraper</a>: Automating the collection of AI news and updates.</li>
 </ul>
 
 <h3 align="left">📊 My Most Used Languages:</h3>
