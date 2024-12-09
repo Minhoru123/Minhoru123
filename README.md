@@ -64,6 +64,7 @@
   <li><a href="https://github.com/Minhoru123/Hand-Writing-Recognition-clean">Hand-Writing Recognition Project</a>: A project focused on recognizing handwritten text using machine learning techniques.</li>
   <li><a href="https://github.com/Minhoru123/AI-News-WebScraper">AI Updates Web Scraper</a>: Automating the collection of AI news and updates.</li>
   <li><a href="https://wawacodinghuancayo.netlify.app/">WawaCodingHuancayo-Escuela de Programacion</a>: Non-profit Programming school for underprivileged kids. </li>
+  <li><a href="https://theusinternationalstudent.netlify.app/">TheUSInternationalStudent</a>: Website made from scraping through different information groups to help out international students after college.</li>
 </ul>
 
 <h3 align="left">📊 My Most Used Languages:</h3>
