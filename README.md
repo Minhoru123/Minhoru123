@@ -35,9 +35,6 @@
   Scikit-Learn, 
   OpenCV, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30" />
-  Pandas, 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30" />
-  Seaborn
 </p>
 
 <h4>Backend Development:</h4>
