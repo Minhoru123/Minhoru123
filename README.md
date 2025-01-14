@@ -33,8 +33,7 @@
   PyTorch, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30" />
   Scikit-Learn, 
-  OpenCV, 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30" />
+  OpenCV
 </p>
 
 <h4>Backend Development:</h4>
