@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minhoru Cotache</h1>
-<h3 align="center">AI Architect | AI Consultant | Machine Learning Researcher</h3>
+<h3 align="center">AI Architect | AI Consultant | Machine Learning Researcher | Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhoru123&label=Profile%20views&color=0e75b6&style=flat" alt="minhoru123" /> </p>
 
@@ -55,6 +55,10 @@
   JavaScript
 </p>
 
+<h4>Data Analysis:</h4>
+<p>
+  Tableau, PowerBI, Matplotlib
+</p>
 <h3 align="left">🌟 Projects:</h3>
 <ul>
   <li><a href="https://github.com/Minhoru123/Hand-Writing-Recognition-clean">Hand-Writing Recognition Project</a>: A project focused on recognizing handwritten text using machine learning techniques.</li>
