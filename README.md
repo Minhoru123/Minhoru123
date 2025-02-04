@@ -12,7 +12,7 @@
 </ul>
 
 <h3 align="left">📫 How to Reach Me:</h3>
-<p>minhorucotacheleon@gmail.com</p>
+<p>minhorujcotache@gmail.com</p>
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p>
