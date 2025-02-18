@@ -49,7 +49,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
   CSS, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
-  JavaScript
+  JavaScript,
+  TypeScript,
+  ReactJS
 </p>
 
 <h4>Data Analysis:</h4>
