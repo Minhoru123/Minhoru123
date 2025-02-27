@@ -33,7 +33,7 @@
   Scikit-Learn
 </p>
 
-<h4>Backend Development:</h4>
+<h4>Backend & Database Development:</h4>
 <p>
   MySQL, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" />
