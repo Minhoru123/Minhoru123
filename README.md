@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhoru123" alt="minhoru123" /></a> </p>
 
-<h3 align="left">🔭 Currently Working On:</h3>
-<ul>
-  <li>Hand-Writing Recognition Project</li>
-  <li>Automating AI-related updates via web scraping</li>
-</ul>
-
 <h3 align="left">📫 How to Reach Me:</h3>
 <p>minhorujcotache@gmail.com</p>
 
@@ -60,7 +54,7 @@
 </p>
 <h3 align="left">🌟 Projects:</h3>
 <ul>
-  <li><a href="https://github.com/Minhoru123/Hand-Writing-Recognition-clean">Hand-Writing Recognition Project</a>: A project focused on recognizing handwritten text using machine learning techniques.</li>
+  <li><a href="https://github.com/Minhoru123/Hand-Writing-Recognition-clean">Hand-Writing Recognition Project</a>: A project focused on recognizing handwritten text using OCR techniques.</li>
   <li><a href="https://github.com/Minhoru123/AI-News-WebScraper">AI Updates Web Scraper</a>: Automating the collection of AI news and updates.</li>
   <li><a href="https://wawacodinghuancayo.netlify.app/">WawaCodingHuancayo-Escuela de Programacion</a>: Non-profit Programming school for underprivileged kids. </li>
   <li><a href="https://theusinternationalstudent.netlify.app/">TheUSInternationalStudent</a>: Website made from scraping through different information groups to help out international students after college.</li>
