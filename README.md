@@ -60,7 +60,3 @@
   <li><a href="https://theusinternationalstudent.netlify.app/">TheUSInternationalStudent</a>: Website made from scraping through different information groups to help out international students after college.</li>
 </ul>
 
-<h3 align="left">📊 My Most Used Languages:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhoru123&show_icons=true&locale=en&layout=compact" alt="minhoru123" />
-</p>
