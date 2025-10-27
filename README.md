@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhoru Cotache</h1>
 <h3 align="center"> AI Solutions | Cloud Architecture </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhoru123" alt="minhoru123" /></a> </p>
-
 <h3 align="left">📫 How to Reach Me:</h3>
 <p>minhorujcotache@gmail.com</p>
 
