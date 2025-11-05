@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minhoru Cotache</h1>
-<h3 align="center"> AI Solutions | Cloud Architecture | Software Development </h3>
+<h3 align="center"> AI Solutions | Cloud Architecture | IT Development </h3>
 
 <h3 align="left">📫 How to Reach Me:</h3>
 <p>minhorujcotache@gmail.com</p>
